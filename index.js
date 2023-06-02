@@ -1,6 +1,6 @@
 const tgApi = require('node-telegram-bot-api')
 
-const token = '5757512615:AAGPvU988_OsjNVMTE1j_mldSy6fEnynhbU';
+const token = '********';
 
 const bot = new tgApi(token, {polling:true})
 
